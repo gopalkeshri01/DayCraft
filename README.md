@@ -21,7 +21,3 @@ Built with **React**, **Tailwind CSS**, and **Vite**.
 - Vite  
 - LocalStorage for data persistence  
 - Lucide-react icons  
-
----
-
-## 📁 Folder Structure
